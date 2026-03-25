@@ -27,3 +27,4 @@ print("Filtered list:", result)
 <img width="432" height="50" alt="image" src="https://github.com/user-attachments/assets/ab6f4924-0ffc-4834-957f-bae7022feb13" />
 
 ## Result :
+Thus the program is excuted and the output is obtained.
